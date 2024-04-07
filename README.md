@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bradzara
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python and JS
+- 🌱 I’m currently learning Ruby
 
 
 <!---
