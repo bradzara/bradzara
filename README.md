@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bradzara
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Ruby, Ruby on Rails, Javascript, HTML, CSS & more.
+- 🌱 I’m currently learning Python, Ruby, Ruby on Rails, Javascript, React.JS, HTML, CSS & more.
 
 
 <!---
